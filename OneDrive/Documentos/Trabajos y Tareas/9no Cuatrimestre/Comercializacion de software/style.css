@@ -1,3 +1,6 @@
-body{ background-color: aqua;}
+body{ background-color: chartreuse;}
 
-h1{font-size: 80px;}
+h1{font-size: 80px; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+
+h2{font-size: 60px;
+    font-family: cursive;}
