@@ -1,6 +1,19 @@
+<<<<<<< HEAD
 body{ background-color: chartreuse;}
+=======
+body{ background-color: deeppink;}
+>>>>>>> rama1
 
 h1{font-size: 80px; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
 
 h2{font-size: 60px;
+<<<<<<< HEAD
     font-family: cursive;}
+=======
+    font-family: cursive;}
+
+h3{
+    font-size: 50px;
+    font-family: fantasy;
+}
+>>>>>>> rama1
